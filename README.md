@@ -1,4 +1,4 @@
-# Basic.py README
+# Basic.py Robots.txt Fetcher
 
 `basic.py` is a simple Python script that retrieves and displays the content of a website's `robots.txt` file. This file is used by webmasters to manage how search engines crawl and index their sites.
 
