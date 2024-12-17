@@ -71,13 +71,8 @@ Access forbidden (403) - unable to access robots.txt
 Failed to fetch robots.txt: <status_code> - <reason>
 ```
 
-## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 # Advanced.py Robots.txt and Sitemap Fetcher
@@ -150,17 +145,4 @@ Saved data to 'path/to/directory/sitemap.xml'
 
 All logs will be saved in a file named `robots_sitemap_log.log` in the script's execution directory. Logs include timestamps, severity levels (DEBUG, INFO, WARNING, and ERROR), and specific messages related to the operations performed.
 
-## Development
 
-### Coding Standards
-
-- Follow PEP 8 guidelines for Python coding.
-- Use logging for all output that would typically be printed to the console in production-grade applications.
-
-### Contributions
-
-Contributions are welcome! Feel free to submit issues or pull requests for enhancements and bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
